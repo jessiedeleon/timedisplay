@@ -1,0 +1,16 @@
+* {
+	color: green;
+	font-family: Helvetica, Sans-Serif;
+	margin: 0 auto;
+}	
+	h3 {
+		margin: 0 auto;
+		text-align: center;
+		border: 1px solid black;
+		width: 80%;
+	}
+		.time_container {
+			width: 80%;
+			border: 1px solid black;
+			text-align: center;
+		}
